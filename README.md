@@ -2,7 +2,7 @@
 
 The published policy is at https://limkxrby.github.io/local-reader-privacy/ and the source is in `index.html`.
 
-Applies to version 1.0.4.
+Applies to version 1.1.0.
 
 Local Reader stores article text, URLs, titles, dates, tags, reading state, notes, highlights and trash inside your browser profile using IndexedDB. No account is required. There is no analytics, advertising, telemetry, cloud database, or sync service.
 
